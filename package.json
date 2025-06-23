@@ -3,9 +3,22 @@
   "version": "1.0.0",
   "private": true,
   "description": "An e-commerce theme designed by Matter Design for Netlify.",
-  "author": "Matter Design",
+  "author": "Joe - XMRT",
   "keywords": [
-    "gatsby"
+    "blockchain",
+    "cryptocurrency",
+    "privacy",
+    "defi",
+    "financial-freedom",
+    "liberty",
+    "web3",
+    "decentralized",
+    "crypto",
+    "privacy-tech",
+    "smart-contracts",
+    "ethereum",
+    "bitcoin",
+    "web3"
   ],
   "scripts": {
     "develop": "gatsby develop",
@@ -27,5 +40,10 @@
   "devDependencies": {
     "plop": "^3.0.5",
     "prettier": "^3.2.5"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevGruGold/Dropship.git"
   }
 }
